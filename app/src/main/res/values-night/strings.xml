@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_task">Add Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="important_task">Important Task</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_date_created">Sort by date created</string>
+    <string name="hide_completed">Hide Completed</string>
+    <string name="delete_all_completed">Delete all completed</string>
+    <string name="task_date">Created: %1$s</string>
+</resources>
